@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<DBSettings>
+	<DataBase name = 'Oracle'>
+		<HostIP>localhost</HostIP>
+		<DBSource>orcl</DBSource>
+		<UserName>jsy</UserName>
+		<PassWord>jsy</PassWord>
+	</DataBase>
+</DBSettings>
